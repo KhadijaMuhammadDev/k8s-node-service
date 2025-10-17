@@ -9,10 +9,6 @@ app.get("/", (req,res)=>{
     const message=`Hello KHadija , Iam POd ${os.hostname()}`
     res.send(message)
 
-
-
-
-
 })
 
 app.listen(PORT, ()=>{
