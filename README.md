@@ -15,10 +15,3 @@ It demonstrates how to containerize a Node.js application and deploy it as a Pod
 
 ---
 
-## 🧩 Project Structure
-
-k8s-node-service/
-├── app.js # Main Node.js app
-├── Dockerfile # Docker build instructions
-├── package.json # Node.js dependencies
-
